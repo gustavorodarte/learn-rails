@@ -1,0 +1,2 @@
+module SingupsHelper
+end
